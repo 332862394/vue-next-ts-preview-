@@ -401,3 +401,5 @@ const asyncComponent = defineAsyncComponent({
 // 方式2
 const asyncComponent = defineAsyncComponent(() => import('./syncComponents.vue'));
 ```
+
+test3
